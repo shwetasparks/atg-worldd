@@ -8,6 +8,7 @@ import MyModal from "./components/shared/MyModal";
 import AuthContextProvider from "./context/AuthContextProvider";
 import Join from "./components/Join";
 import WritePost from "./components/mobile/WritePost";
+import "./index.css";
 
 function App() {
   //modal dialog
